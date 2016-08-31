@@ -1,4 +1,4 @@
-Repro for `hapi-require-https` erroring when there are multiple connections.
+Repro for `hapi-require-https` erroring when there are multiple connections. See [bendrucker/hapi-require-https#17](https://github.com/bendrucker/hapi-require-https/issues/17).
 
 # Instructions:
 
