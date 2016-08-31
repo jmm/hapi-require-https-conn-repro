@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "hapi": "15.0.2",
+    "hapi-require-https": "2.0.8"
+  },
+  "scripts": {
+    "repro": "node server"
+  }
+}
